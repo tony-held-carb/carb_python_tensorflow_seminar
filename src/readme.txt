@@ -8,3 +8,5 @@ carb_video_analysis_02.ipynb
 
 trying to get video analysis working on colab
 carb_video_analysis_03.ipynb
+
+carb_python_tf_analysis_04.ipynb is the 25 epoch running on my home machine
